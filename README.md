@@ -1,6 +1,6 @@
 # Eyes
 ## Exercise on eyes
-The image you see below is how the project began. The problem we were given was to create another eye that functioned the same way. 
+The image you see below is how the project began. The problem we were given was to create another eye that functioned the same way. Once the problem was solved my additions to the project focus mainly on adding whimsy and styling. 
 
 ### How to run
 I like to run the HTML with the Live Server extension in VS Code, just make sure you have all three source files open from the project folder after you clone the repo. 
